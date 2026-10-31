@@ -181,9 +181,11 @@ flowchart LR
 
 ## Contact
 
-- **GitHub:** [github.com/mnp210](https://github.com/mnp210)
-- **LinkedIn:** [linkedin.com/in/meet-patil-068920430](https://www.linkedin.com/in/meet-patil-068920430/)
-- **Email:** [mnpwizard@gmail.com](mailto:mnpwizard@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-patil-068920430/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mnp210)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mnpwizard@gmail.com)
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/meet-patil-068920430/) or email directly at [mnpwizard@gmail.com](mailto:mnpwizard@gmail.com).
 
 ---
 
