@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="1600" height="500">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06070f" />
+      <stop offset="50%" stop-color="#0a0d18" />
+      <stop offset="100%" stop-color="#0e1324" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="purpleGlow" cx="75%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#6d28d9" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#06070f" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="blueGlow" cx="88%" cy="40%" r="40%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.3" />
+      <stop offset="60%" stop-color="#0369a1" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#06070f" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Line Gradient -->
+    <linearGradient id="cyanPurpleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.2" />
+    </linearGradient>
+
+    <linearGradient id="accentDivider" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="techGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.75" stroke-opacity="0.05" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1600" height="500" fill="url(#bgGrad)" />
+  <rect width="1600" height="500" fill="url(#purpleGlow)" />
+  <rect width="1600" height="500" fill="url(#blueGlow)" />
+  <rect width="1600" height="500" fill="url(#techGrid)" />
+
+  <!-- Corner HUD Brackets -->
+  <g stroke="#38bdf8" stroke-width="2" stroke-opacity="0.4" fill="none">
+    <path d="M 40 70 L 40 40 L 70 40" />
+    <path d="M 1530 40 L 1560 40 L 1560 70" />
+    <path d="M 40 430 L 40 460 L 70 460" />
+    <path d="M 1530 460 L 1560 460 L 1560 430" />
+  </g>
+
+  <!-- Circuit Trace Lines on Right -->
+  <g stroke="url(#cyanPurpleLine)" stroke-width="1.5" fill="none" opacity="0.6">
+    <path d="M 900 120 L 1050 120 L 1120 180 L 1380 180 L 1440 240 L 1560 240" />
+    <path d="M 950 400 L 1100 400 L 1160 340 L 1350 340 L 1400 290 L 1560 290" />
+    <path d="M 1150 80 L 1250 80 L 1310 140 L 1500 140" />
+    <circle cx="1050" cy="120" r="3" fill="#38bdf8" />
+    <circle cx="1120" cy="180" r="3" fill="#a855f7" />
+    <circle cx="1380" cy="180" r="3" fill="#38bdf8" />
+    <circle cx="1160" cy="340" r="3" fill="#38bdf8" />
+    <circle cx="1350" cy="340" r="3" fill="#a855f7" />
+  </g>
+
+  <!-- Left Content Block -->
+  <!-- Name "MP" -->
+  <text x="80" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="120" font-weight="900" fill="#ffffff" letter-spacing="-2">MP</text>
+
+  <!-- Vertical Divider -->
+  <rect x="290" y="145" width="4" height="110" fill="url(#accentDivider)" rx="2" />
+
+  <!-- Subtitle & Positioning -->
+  <text x="320" y="195" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="34" font-weight="600" fill="#f1f5f9" letter-spacing="0.5">Software Engineering &amp; Systems</text>
+  <text x="320" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="19" font-weight="600" fill="#94a3b8" letter-spacing="3">BUILDING SYSTEMS. ENGINEERING INTELLIGENCE.</text>
+
+  <!-- Horizontal Divider Line -->
+  <line x1="80" y1="310" x2="860" y2="310" stroke="#334155" stroke-width="1.5" stroke-opacity="0.6" />
+
+  <!-- Domain Navigation Footer Pills -->
+  <g font-family="'Consolas', 'Courier New', monospace" font-size="16" font-weight="600" fill="#cbd5e1">
+    <!-- Item 1: Software Development -->
+    <text x="80" y="360" fill="#38bdf8">&lt;/&gt;</text>
+    <text x="120" y="360">Software Development</text>
+
+    <!-- Separator -->
+    <text x="340" y="360" fill="#64748b">|</text>
+
+    <!-- Item 2: Databases -->
+    <text x="370" y="360" fill="#a855f7">⛁</text>
+    <text x="395" y="360">Databases</text>
+
+    <!-- Separator -->
+    <text x="500" y="360" fill="#64748b">|</text>
+
+    <!-- Item 3: AI & Computer Vision -->
+    <text x="530" y="360" fill="#38bdf8">◈</text>
+    <text x="555" y="360">AI &amp; Computer Vision</text>
+
+    <!-- Separator -->
+    <text x="755" y="360" fill="#64748b">|</text>
+
+    <!-- Item 4: Cybersecurity -->
+    <text x="785" y="360" fill="#a855f7">⛨</text>
+    <text x="810" y="360">Cybersecurity</text>
+  </g>
+
+  <!-- Right Decorative Elements: Database, Neural Network, Security Shield -->
+  <g transform="translate(1050, 140)">
+    <!-- 3D Database Storage Cylinder -->
+    <g transform="translate(0, 40)">
+      <!-- Cylinder Base Plate -->
+      <ellipse cx="90" cy="170" rx="90" ry="30" fill="#1e1b4b" stroke="#7c3aed" stroke-width="2" opacity="0.6" />
+      <ellipse cx="90" cy="170" rx="65" ry="22" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5" />
+      
+      <!-- Tier 3 -->
+      <path d="M 35 110 A 55 18 0 0 0 145 110 V 135 A 55 18 0 0 1 35 135 Z" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5" />
+      <ellipse cx="90" cy="110" rx="55" ry="18" fill="#334155" stroke="#60a5fa" stroke-width="1.5" />
+      
+      <!-- Tier 2 -->
+      <path d="M 35 75 A 55 18 0 0 0 145 75 V 100 A 55 18 0 0 1 35 100 Z" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5" />
+      <ellipse cx="90" cy="75" rx="55" ry="18" fill="#334155" stroke="#60a5fa" stroke-width="1.5" />
+      
+      <!-- Tier 1 -->
+      <path d="M 35 40 A 55 18 0 0 0 145 40 V 65 A 55 18 0 0 1 35 65 Z" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5" />
+      <ellipse cx="90" cy="40" rx="55" ry="18" fill="#475569" stroke="#93c5fd" stroke-width="2" />
+    </g>
+
+    <!-- Neural Network Brain Silhouette / Geometry -->
+    <g transform="translate(180, -20)" opacity="0.85">
+      <path d="M 50 70 Q 20 20 80 0 Q 140 -20 180 30 Q 220 10 240 60 Q 260 120 200 160 Q 150 190 90 170 Q 40 150 40 100 Z" fill="none" stroke="#8b5cf6" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.4" />
+      
+      <!-- Neural Nodes & Connections -->
+      <g stroke="#38bdf8" stroke-width="1" opacity="0.6">
+        <line x1="80" y1="40" x2="130" y2="30" />
+        <line x1="130" y1="30" x2="180" y2="60" />
+        <line x1="80" y1="40" x2="100" y2="80" />
+        <line x1="100" y1="80" x2="160" y2="100" />
+        <line x1="160" y1="100" x2="200" y2="80" />
+        <line x1="100" y1="80" x2="70" y2="120" />
+        <line x1="70" y1="120" x2="120" y2="140" />
+        <line x1="120" y1="140" x2="170" y2="140" />
+        <line x1="160" y1="100" x2="170" y2="140" />
+      </g>
+      <circle cx="80" cy="40" r="4" fill="#38bdf8" />
+      <circle cx="130" cy="30" r="5" fill="#a855f7" />
+      <circle cx="180" cy="60" r="4" fill="#38bdf8" />
+      <circle cx="100" cy="80" r="5" fill="#60a5fa" />
+      <circle cx="160" cy="100" r="6" fill="#c084fc" />
+      <circle cx="200" cy="80" r="4" fill="#38bdf8" />
+      <circle cx="70" cy="120" r="4" fill="#818cf8" />
+      <circle cx="120" cy="140" r="5" fill="#38bdf8" />
+      <circle cx="170" cy="140" r="4" fill="#a855f7" />
+    </g>
+
+    <!-- Cybersecurity Shield Emblem -->
+    <g transform="translate(350, 45)">
+      <path d="M 45 0 L 90 20 V 65 C 90 105 45 130 45 130 C 45 130 0 105 0 65 V 20 Z" fill="#0f172a" stroke="#38bdf8" stroke-width="2.5" />
+      <path d="M 45 12 L 78 28 V 65 C 78 96 45 116 45 116 C 45 116 12 96 12 65 V 28 Z" fill="#1e1b4b" stroke="#8b5cf6" stroke-width="1.5" opacity="0.8" />
+      
+      <!-- Padlock Icon inside Shield -->
+      <!-- Shackle -->
+      <path d="M 36 54 V 44 C 36 39 54 39 54 44 V 54" fill="none" stroke="#38bdf8" stroke-width="3" />
+      <!-- Body -->
+      <rect x="30" y="54" width="30" height="24" rx="4" fill="#38bdf8" />
+      <circle cx="45" cy="64" r="2.5" fill="#0f172a" />
+      <line x1="45" y1="66" x2="45" y2="72" stroke="#0f172a" stroke-width="2" />
+    </g>
+  </g>
+</svg>
