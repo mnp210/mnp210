@@ -8,6 +8,19 @@
 
 I am a Computer Engineering student focused on engineering complete, resilient software systems from first principles. My work centers on database internals and systems programming in modern C++, full-stack web platforms, deterministic security evaluation for autonomous AI agents, and real-time computer vision pipelines. I prioritize software reliability, clean systems architecture, and deep technical understanding over surface-level abstractions.
 
+
+## My GitHub Pet
+
+<p align="center">
+  <a href="https://github.com/mnp210/GitHub-Profile-Pet">
+    <img src="https://raw.githubusercontent.com/mnp210/GitHub-Profile-Pet/main/public/pet.svg" alt="Shadow Claw — my GitHub Profile Pet" width="450" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mnp210/GitHub-Profile-Pet">View the pet repository · Feed · Train · Rest · Pet</a>
+</p>
+
 ---
 
 ## Engineering Interests
