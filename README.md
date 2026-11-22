@@ -11,6 +11,8 @@ I am a Computer Engineering student focused on engineering complete, resilient s
 
 ## My GitHub Pet
 
+[GitHub Profile Pet](https://github.com/mnp210/GitHub-Profile-Pet) is an open-source virtual developer companion that lives in a GitHub repository. It uses **GitHub Actions as its runtime** and version-controlled files as persistent state—without requiring an external server, database, or paid API. Owners can feed, train, rest, and interact with their companion through native GitHub Issues while automated workflows update its vitals and SVG profile badge.
+
 <p align="center">
   <a href="https://github.com/mnp210/GitHub-Profile-Pet">
     <img src="https://raw.githubusercontent.com/mnp210/GitHub-Profile-Pet/main/public/pet.svg" alt="Shadow Claw — my GitHub Profile Pet" width="450" />
@@ -18,7 +20,11 @@ I am a Computer Engineering student focused on engineering complete, resilient s
 </p>
 
 <p align="center">
-  <a href="https://github.com/mnp210/GitHub-Profile-Pet">View the pet repository · Feed · Train · Rest · Pet</a>
+  <a href="https://github.com/mnp210/GitHub-Profile-Pet">Explore the project</a>
+  ·
+  <a href="https://github.com/mnp210/GitHub-Profile-Pet#step-by-step-installation--setup-guide">Installation guide</a>
+  ·
+  <a href="https://github.com/mnp210/GitHub-Profile-Pet/fork">Fork and adopt your own pet</a>
 </p>
 
 ---
