@@ -11,21 +11,38 @@ I am a Computer Engineering student focused on engineering complete, resilient s
 
 ## My GitHub Pet
 
-[GitHub Profile Pet](https://github.com/mnp210/GitHub-Profile-Pet) is an open-source virtual developer companion that lives in a GitHub repository. It uses **GitHub Actions as its runtime** and version-controlled files as persistent state—without requiring an external server, database, or paid API. Owners can feed, train, rest, and interact with their companion through native GitHub Issues while automated workflows update its vitals and SVG profile badge.
+[GitHub Profile Pet](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) is an open-source virtual developer companion powered by **GitHub Actions** and a live **GitHub Pages game interface**. Shadow Claw's vitals and SVG badge update automatically from repository state—click Shadow Claw or any menu option below to launch the playable game.
+
+<div align="center">
 
 <p align="center">
-  <a href="https://github.com/mnp210/GitHub-Profile-Pet">
+  <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet" title="Play Shadow Claw on GitHub Pages">
     <img src="https://raw.githubusercontent.com/mnp210/GitHub-Profile-Pet/main/public/pet.svg" alt="Shadow Claw — my GitHub Profile Pet" width="450" />
   </a>
 </p>
 
+| Game Menu | Destination | Purpose |
+| :--- | :--- | :--- |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>CARE</strong></a> | [Launch Care Hub](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Feed, train, rest, and pet Shadow Claw |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>PLAY ZONE</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Play interactive mini-games from the main interface |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>WARDROBE</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Equip unlocked cosmetics and shadow accessories |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>BOND</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Build daily companion affinity and milestones |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>ACHIEVEMENTS</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Track unlocked milestones and progression rewards |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&amp;action=stats"><strong>PET PROFILE</strong></a> | [View Pet Stats](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&action=stats) | Inspect full companion telemetry and ledger status |
+
+<sub><code>CARE</code> and <code>PET PROFILE</code> use supported query parameters (<code>?repo=</code>, <code>?action=stats</code>); <code>PLAY ZONE</code>, <code>WARDROBE</code>, <code>BOND</code>, and <code>ACHIEVEMENTS</code> open the playable homepage directly.</sub>
+
 <p align="center">
-  <a href="https://github.com/mnp210/GitHub-Profile-Pet">Explore the project</a>
+  <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet">Play Shadow Claw Live</a>
+  ·
+  <a href="https://github.com/mnp210/GitHub-Profile-Pet">Source repository</a>
   ·
   <a href="https://github.com/mnp210/GitHub-Profile-Pet#step-by-step-installation--setup-guide">Installation guide</a>
   ·
   <a href="https://github.com/mnp210/GitHub-Profile-Pet/fork">Fork and adopt your own pet</a>
 </p>
+
+</div>
 
 ---
 
