@@ -23,14 +23,14 @@ I am a Computer Engineering student focused on engineering complete, resilient s
 
 | Game Menu | Destination | Purpose |
 | :--- | :--- | :--- |
-| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>CARE</strong></a> | [Launch Care Hub](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Feed, train, rest, and pet Shadow Claw |
-| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>PLAY ZONE</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Play interactive mini-games from the main interface |
-| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>WARDROBE</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Equip unlocked cosmetics and shadow accessories |
-| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>BOND</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Build daily companion affinity and milestones |
-| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet"><strong>ACHIEVEMENTS</strong></a> | [Open Game](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet) | Track unlocked milestones and progression rewards |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&amp;action=care"><strong>CARE</strong></a> | [Launch Care Hub](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&action=care) | Feed, train, rest, and pet Shadow Claw |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&amp;action=playzone"><strong>PLAY ZONE</strong></a> | [Open Play Zone](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&action=playzone) | Play interactive mini-games directly |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&amp;action=wardrobe"><strong>WARDROBE</strong></a> | [Open Wardrobe](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&action=wardrobe) | Equip unlocked cosmetics and shadow accessories |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&amp;action=bond"><strong>BOND</strong></a> | [Open Bond Hub](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&action=bond) | Build daily companion affinity and milestones |
+| <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&amp;action=achievements"><strong>ACHIEVEMENTS</strong></a> | [Open Achievements](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&action=achievements) | Track unlocked milestones and progression rewards |
 | <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&amp;action=stats"><strong>PET PROFILE</strong></a> | [View Pet Stats](https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet&action=stats) | Inspect full companion telemetry and ledger status |
 
-<sub><code>CARE</code> and <code>PET PROFILE</code> use supported query parameters (<code>?repo=</code>, <code>?action=stats</code>); <code>PLAY ZONE</code>, <code>WARDROBE</code>, <code>BOND</code>, and <code>ACHIEVEMENTS</code> open the playable homepage directly.</sub>
+<sub>Each menu item links directly to its corresponding screen via <code>?repo=mnp210%2FGitHub-Profile-Pet&amp;action=...</code>.</sub>
 
 <p align="center">
   <a href="https://mnp210.github.io/GitHub-Profile-Pet/?repo=mnp210%2FGitHub-Profile-Pet">Play Shadow Claw Live</a>
